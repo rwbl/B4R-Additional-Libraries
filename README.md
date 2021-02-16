@@ -1,9 +1,7 @@
 # B4R-Additional-Libraries
-Open Source Additional Libraries created for B4R - build native Arduino & ESP8266 programs.
+Open Source Additional Libraries developed for [B4R](https://www.b4x.com/b4r.html) development tool for native Arduino and ESP programs by [Anywhere Software](https://www.b4x.com).
 
-Developed for personal use only.
-
-[B4R](https://www.b4x.com/b4r.html) development tool for native Arduino and ESP programs by [Anywhere Software](https://www.b4x.com).
+The libraries have been developed for personal use only.
 
 ## Additional Libraries
 * rBH1750FVI - Get light intensity in Lux from sensor BH1750
