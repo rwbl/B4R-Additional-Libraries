@@ -1,5 +1,6 @@
 # B4R-Additional-Libraries
 Open Source Additional Libraries created for B4R - build native Arduino & ESP8266 programs.
+
 Developed for personal use only.
 
 [B4R](https://www.b4x.com/b4r.html) development tool for native Arduino and ESP programs by [Anywhere Software](https://www.b4x.com).
@@ -21,5 +22,6 @@ From the zip archive, copy the content of the library folder, to the B4R additio
 <path to b4r additional libraries folder>\rTM1637Ex.xml
 <path to b4r additional libraries folder>\rTM1637Ex\rTM1637Ex.h , rTM1637Ex.cpp, TM1637Display.h , TM1637Display.cpp 
 ```
+
 ## Licence
 GNU General Public License v3.0.
