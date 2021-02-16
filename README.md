@@ -22,3 +22,4 @@ From the zip archive, copy the content of the library folder, to the B4R additio
 <path to b4r additional libraries folder>\rTM1637Ex\rTM1637Ex.h , rTM1637Ex.cpp, TM1637Display.h , TM1637Display.cpp 
 ```
 ## Licence
+GNU General Public License v3.0.
