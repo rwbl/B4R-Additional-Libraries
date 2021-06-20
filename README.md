@@ -8,7 +8,7 @@ The libraries have been developed for personal use only.
 * rDHTESP - Get temperature & humidity for DHT11 & DHT22 sensors connected to ESP8266.
 * rESPOLED1608 - Display text on an OLED display with 16 columns and 8 rows connected to ESP8266.
 * rLiquidCrystalI2CEx - Write to I2C LCD Displays 20x4 or 16x2.
-* rMiLYWSD03MMC - Read temperature, humidity and battery values broadcasted via Bluetooth 4.2 BLE by the Xiaomi Mi Temperature AND Humidity Monitor 2.
+* rMiLYWSD03MMC - Read temperature, humidity and battery values broadcasted via Bluetooth 4.2 BLE by the Xiaomi Mi Temperature and Humidity Monitor 2.
 * rTM1637Ex - Write to TM1637 seven-segment-displays.
 * rTrafficLight - Controlling 3 LEDs Red-Yellow-Green for learning Arduino Functions but also how to create a B4R library.
 
