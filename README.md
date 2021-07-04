@@ -7,19 +7,31 @@ The libraries have been developed for personal use only.
 * rBH1750FVI - Get light intensity in Lux from sensor BH1750.
 * rDHTESP - Get temperature & humidity for DHT11 & DHT22 sensors connected to ESP8266.
 * rESPOLED1608 - Display text on an OLED display with 16 columns and 8 rows connected to ESP8266.
+* rGPRMC (b4xlib) - Get NMEA RMC Lat / Lon position, Direction Indicator, Speed, Course, Timestamp, Distance Between / Course To for two Lat / Lon positions, Time Difference.
 * rLiquidCrystalI2CEx - Write to I2C LCD Displays 20x4 or 16x2.
 * rMiLYWSD03MMC - Read temperature, humidity and battery values broadcasted via Bluetooth 4.2 BLE by the Xiaomi Mi Temperature and Humidity Monitor 2.
 * rTM1637Ex - Write to TM1637 seven-segment-displays.
 * rTrafficLight - Controlling 3 LEDs Red-Yellow-Green for learning Arduino Functions but also how to create a B4R library.
 
+_Note_: B4XLibs are indicated in brackets (b4xlib), all other libraries are CPP libraries.
+
 ## Install
-The library files are installed in the B4R additional libraries folder.
+### Non B4XLib
 From the zip archive, copy the content of the library folder, to the B4R additional libraries folder keeping the folder structure.
 
 **Example Archive rTM1637Ex.zip**
 ```
 <path to b4r additional libraries folder>\rTM1637Ex.xml
 <path to b4r additional libraries folder>\rTM1637Ex\rTM1637Ex.h , rTM1637Ex.cpp, TM1637Display.h , TM1637Display.cpp 
+```
+
+### B4XLib
+From the zip archive, copy the b4xlib file and the xml file to the B4R additional libraries folder.
+
+**Example Archive rGPRMC.zip**
+```
+<path to b4r additional libraries folder>\rGPRMC.xml
+<path to b4r additional libraries folder>\rGPRMC.b4xlib 
 ```
 
 ## Licence
