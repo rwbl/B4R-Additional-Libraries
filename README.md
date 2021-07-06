@@ -2,41 +2,42 @@
 Open Source Additional Libraries developed for [B4R](https://www.b4x.com/b4r.html) development tool for native Arduino and ESP programs by [Anywhere Software](https://www.b4x.com).
 
 The libraries have been developed for personal use only.
+The libraries are either wrapped from or build upon Open Source Arduino CPP libraries or created new using CPP or B4X language.
 
 ## Additional Libraries
 
 ### rBH1750FVI
-Get light intensity in Lux from sensor BH1750.
-Published [B4R Forum](https://www.b4x.com/android/forum/threads/rbh1750fvi-digital-ambient-light-sensor.75663/).
+Get light intensity in Lux from sensor BH1750.  
+[B4R Forum](https://www.b4x.com/android/forum/threads/rbh1750fvi-digital-ambient-light-sensor.75663/).
 ### rDHTESP
-Get temperature & humidity for DHT11 & DHT22 sensors connected to ESP8266.
+Get temperature & humidity for DHT11 & DHT22 sensors connected to ESP8266.  
 ### rESPOLED1608
-Display text on an OLED display with 16 columns and 8 rows connected to ESP8266.
+Display text on an OLED display with 16 columns and 8 rows connected to ESP8266.  
 ### rGPRMC (b4xlib)
-Get NMEA RMC Lat / Lon position, Direction Indicator, Speed, Course, Timestamp, Distance Between / Course To for two Lat / Lon positions, Time Difference.
-[Additional Info](https://www.b4x.com/android/forum/threads/rgprmc.132183/#post-834988)
+Get NMEA RMC Lat / Lon position, Direction Indicator, Speed, Course, Timestamp, Distance Between / Course To for two Lat / Lon positions, Time Difference.  
+[B4R Forum](https://www.b4x.com/android/forum/threads/rgprmc.132183/#post-834988)
 ### rLCD1602BigNumbers
-Display BIG NUMBERS on a LCD 16 x 2.
-[Additional Info](https://www.b4x.com/android/forum/threads/rlcd1602bignumbers-display-big-numbers.75745/)
+Display BIG NUMBERS on a LCD 16 x 2.  
+[B4R Forum](https://www.b4x.com/android/forum/threads/rlcd1602bignumbers-display-big-numbers.75745/)
 ### rLiquidCrystalI2CEx
-Write to I2C LCD Displays 20x4 or 16x2.
-[Additional Info](https://www.b4x.com/android/forum/threads/rliquidcrystali2cex.127742/)
+Write to I2C LCD Displays 20x4 or 16x2.  
+[B4R Forum](https://www.b4x.com/android/forum/threads/rliquidcrystali2cex.127742/)
 ### rMiLYWSD03MMC
-Read temperature, humidity and battery values broadcasted via Bluetooth 4.2 BLE by the Xiaomi Mi Temperature and Humidity Monitor 2.
-[Additional Info](https://www.b4x.com/android/forum/threads/rmilywsd03mmc-xiaomi-mi-temperature-humidity-monitor-2.131806/)
+Read temperature, humidity and battery values broadcasted via Bluetooth 4.2 BLE by the Xiaomi Mi Temperature and Humidity Monitor 2.  
+[B4R Forum](https://www.b4x.com/android/forum/threads/rmilywsd03mmc-xiaomi-mi-temperature-humidity-monitor-2.131806/)
 ### rMPU6050_I2C
-[Additional Info](https://www.b4x.com/android/forum/threads/rmpu6050_i2c-motiontracking.76143/)
+[B4R Forum](https://www.b4x.com/android/forum/threads/rmpu6050_i2c-motiontracking.76143/)
 ### rMultiFuncShield
-[Additional Info](https://www.b4x.com/android/forum/threads/rmultifuncshield-arduino-multi-function-shield.76003/)
+[B4R Forum](https://www.b4x.com/android/forum/threads/rmultifuncshield-arduino-multi-function-shield.76003/)
 ### rPowerFunctions
-[Additional Info](https://www.b4x.com/android/forum/threads/lego-power-functions-ir-control.68464/)
+[B4R Forum](https://www.b4x.com/android/forum/threads/lego-power-functions-ir-control.68464/)
 ### rTM1637Ex
-Write to TM1637 seven-segment-displays.
-[Additional Info](https://www.b4x.com/android/forum/threads/rtm1637ex.127739/).
+Write to TM1637 seven-segment-displays.  
+[B4R Forum](https://www.b4x.com/android/forum/threads/rtm1637ex.127739/).
 ### rTrafficLight
 Controlling 3 LEDs Red-Yellow-Green for learning Arduino Functions but also how to create a B4R library.
 
-_Note_
+_Notes_
 * B4XLibs are indicated in brackets (b4xlib), all other libraries are CPP libraries.
 * Not all libraries are publshed on the B4R Forum.
 
@@ -58,6 +59,8 @@ From the zip archive, copy the b4xlib file and the xml file to the B4R additiona
 <path to b4r additional libraries folder>\rGPRMC.xml
 <path to b4r additional libraries folder>\rGPRMC.b4xlib 
 ```
+## Credits
+To the developers of the Open Source libraries used and to [Anywhere Software](http://www.b4x..com) for the B4X products.
 
 ## Licence
 GNU General Public License v3.0.
