@@ -12,7 +12,7 @@ The libraries are
 * rESPOLED1608 - Display text on an OLED display with 16 columns and 8 rows connected to ESP8266
 * [rGPRMC](https://www.b4x.com/android/forum/threads/rgprmc.132183/#post-834988) (b4xlib) - Get NMEA RMC Lat / Lon position, Direction Indicator, Speed, Course, Timestamp, Distance Between / Course To for two Lat / Lon positions, Time Difference
 * [rLCD1602BigNumbers](https://www.b4x.com/android/forum/threads/rlcd1602bignumbers-display-big-numbers.75745/)- Display BIG NUMBERS on a LCD 16 x 2
-* [rLEDController](https://www.b4x.com/android/forum/threads/rledcontroller.132759/) - control up-to 10 LEDs individually, like turn ON/OFF, turn on for period of time or number of timer ticks
+* [rLEDController](https://www.b4x.com/android/forum/threads/rledcontroller.132759/) (b4xlib) - control up-to 10 LEDs individually, like turn ON/OFF, turn on for period of time or number of timer ticks
 * [rLiquidCrystalI2CEx](https://www.b4x.com/android/forum/threads/rliquidcrystali2cex.127742/) - Write to I2C LCD Displays 20x4 or 16x2
 * [rMiLYWSD03MMC](https://www.b4x.com/android/forum/threads/rmilywsd03mmc-xiaomi-mi-temperature-humidity-monitor-2.131806/) - Read temperature, humidity and battery values broadcasted via Bluetooth 4.2 BLE by the Xiaomi Mi Temperature and Humidity Monitor 2
 * [rMPU6050_I2C](https://www.b4x.com/android/forum/threads/rmpu6050_i2c-motiontracking.76143/)
