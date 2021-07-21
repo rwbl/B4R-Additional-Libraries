@@ -43,6 +43,8 @@ From the zip archive, copy the b4xlib file and the xml file to the B4R additiona
 <path to b4r additional libraries folder>\rGPRMC.xml
 <path to b4r additional libraries folder>\rGPRMC.b4xlib 
 ```
+_Note:_ rGPRMC.xml is optional.
+
 ## Credits
 To the developers of the Open Source libraries used and to [Anywhere Software](http://www.b4x.com) for the B4X products.
 
