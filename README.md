@@ -8,12 +8,13 @@ The libraries are
 ## Additional Libraries
 
 * [rBH1750FVI](https://www.b4x.com/android/forum/threads/rbh1750fvi-digital-ambient-light-sensor.75663/) - Get light intensity in Lux from sensor BH1750
-* rDHTESP - Get temperature & humidity for DHT11 & DHT22 sensors connected to ESP8266
-* rESPOLED1608 - Display text on an OLED display with 16 columns and 8 rows connected to ESP8266
+* rDHTESP - Get temperature & humidity for DHT11 & DHT22 sensors connected to an ESP8266
+* rESPOLED1608 - Display text on an OLED display with 16 columns and 8 rows connected to an ESP8266
 * [rGPRMC](https://www.b4x.com/android/forum/threads/rgprmc.132183/#post-834988) (b4xlib) - Get NMEA RMC Lat / Lon position, Direction Indicator, Speed, Course, Timestamp, Distance Between / Course To for two Lat / Lon positions, Time Difference
 * [rHCSR04](https://www.b4x.com/android/forum/threads/rhcsr04-ultrasonic-distance-sensor.132953/#post-839833) - Read the distance from an Ultrasonic Distance Sensor HC-SR04
 * [rLCD1602BigNumbers](https://www.b4x.com/android/forum/threads/rlcd1602bignumbers-display-big-numbers.75745/)- Display BIG NUMBERS on a LCD 16 x 2
 * [rLEDController](https://www.b4x.com/android/forum/threads/rledcontroller.132759/) (b4xlib) - control up-to 10 LEDs individually, like turn ON/OFF, turn on for period of time or number of timer ticks
+* [rLegoinoBoost](https://www.b4x.com/android/forum/threads/rlegoinoboost.135237/) - control the LEGO® Motorized Hub (MoveHUB) from the [LEGO Creative Toolbox 17101](https://www.lego.com/en-de/product/boost-creative-toolbox-17101)
 * [rLiquidCrystalI2CEx](https://www.b4x.com/android/forum/threads/rliquidcrystali2cex.127742/) - Write to I2C LCD Displays 20x4 or 16x2
 * [rMiLYWSD03MMC](https://www.b4x.com/android/forum/threads/rmilywsd03mmc-xiaomi-mi-temperature-humidity-monitor-2.131806/) - Read temperature, humidity and battery values broadcasted via Bluetooth 4.2 BLE by the Xiaomi Mi Temperature and Humidity Monitor 2
 * [rMPU6050_I2C](https://www.b4x.com/android/forum/threads/rmpu6050_i2c-motiontracking.76143/)
@@ -25,6 +26,7 @@ The libraries are
 _Notes_
 * B4XLibs are indicated in brackets (b4xlib), all other libraries are CPP libraries.
 * Not all libraries are publshed on the B4R Forum.
+* LEGO® is a trademark of the LEGO Group of companies.
 
 ## Install
 ### Non B4XLib
