@@ -14,7 +14,7 @@ The libraries are
 * [rHCSR04](https://www.b4x.com/android/forum/threads/rhcsr04-ultrasonic-distance-sensor.132953/#post-839833) - Read the distance from an Ultrasonic Distance Sensor HC-SR04
 * [rLCD1602BigNumbers](https://www.b4x.com/android/forum/threads/rlcd1602bignumbers-display-big-numbers.75745/)- Display BIG NUMBERS on a LCD 16 x 2
 * [rLEDController](https://www.b4x.com/android/forum/threads/rledcontroller.132759/) (b4xlib) - control up-to 10 LEDs individually, like turn ON/OFF, turn on for period of time or number of timer ticks
-* [rLegoinoBoost](https://www.b4x.com/android/forum/threads/rlegoinoboost.135237/) - control the LEGO® Motorized Hub (MoveHUB) from the [LEGO Creative Toolbox 17101](https://www.lego.com/en-de/product/boost-creative-toolbox-17101)
+* [rLegoinoBoost](https://www.b4x.com/android/forum/threads/rlegoinoboost.135237/) - control the LEGO® Motorized Hub from the [LEGO BOOST Creative Toolbox 17101](https://www.lego.com/en-de/product/boost-creative-toolbox-17101)
 * [rLiquidCrystalI2CEx](https://www.b4x.com/android/forum/threads/rliquidcrystali2cex.127742/) - Write to I2C LCD Displays 20x4 or 16x2
 * [rMiLYWSD03MMC](https://www.b4x.com/android/forum/threads/rmilywsd03mmc-xiaomi-mi-temperature-humidity-monitor-2.131806/) - Read temperature, humidity and battery values broadcasted via Bluetooth 4.2 BLE by the Xiaomi Mi Temperature and Humidity Monitor 2
 * [rMPU6050_I2C](https://www.b4x.com/android/forum/threads/rmpu6050_i2c-motiontracking.76143/)
