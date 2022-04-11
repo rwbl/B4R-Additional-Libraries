@@ -21,7 +21,7 @@ The libraries are
 * [rMiLYWSD03MMC](https://www.b4x.com/android/forum/threads/rmilywsd03mmc-xiaomi-mi-temperature-humidity-monitor-2.131806/) - Read temperature, humidity and battery values broadcasted via Bluetooth 4.2 BLE by the Xiaomi Mi Temperature and Humidity Monitor 2
 * [rMPU6050_I2C](https://www.b4x.com/android/forum/threads/rmpu6050_i2c-motiontracking.76143/)
 * [rMultiFuncShield](https://www.b4x.com/android/forum/threads/rmultifuncshield-arduino-multi-function-shield.76003/)
-* [rPowerFunctions](https://www.b4x.com/android/forum/threads/lego-power-functions-ir-control.68464/) - Control LEGO powerfunctions via IR transmitter
+* [rPowerFunctions](https://www.b4x.com/android/forum/threads/lego-power-functions-ir-control.68464/) - Control LEGO Power Functions via IR transmitter
 * [rRFXMeter](https://www.b4x.com/android/forum/threads/rrfxmeter.139786/#post-885187) (b4xlib) - send sensor & actuator data from an [Arduino](https://www.arduino.cc/) Microcontroller to [Domoticz Home Automation System](https://domoticz.com/) by using a [RFXCOM RFXtrx433e](http://www.rfxcom.com/RFXtrx433E-USB-43392MHz-Transceiver/en) transceiver.
 * [rTM1637Ex](https://www.b4x.com/android/forum/threads/rtm1637ex.127739/) - Write to TM1637 seven-segment-displays
 * rTrafficLight - Controlling 3 LEDs Red-Yellow-Green for learning Arduino Functions but also how to create a B4R library
