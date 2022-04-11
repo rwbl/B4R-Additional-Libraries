@@ -17,11 +17,11 @@ The libraries are
 * [rLEDController](https://www.b4x.com/android/forum/threads/rledcontroller.132759/) (b4xlib) - control up-to 10 LEDs individually, like turn ON/OFF, turn on for period of time or number of timer ticks
 * [rLegoinoBoost](https://www.b4x.com/android/forum/threads/rlegoinoboost.135237/) - control via an ESP32 the LEGO® Motorized Hub from the [LEGO BOOST Creative Toolbox 17101](https://www.lego.com/en-de/product/boost-creative-toolbox-17101)
 * [rLiquidCrystalI2CEx](https://www.b4x.com/android/forum/threads/rliquidcrystali2cex.127742/) - Write to I2C LCD Displays 20x4 or 16x2
-* rMAX6675 - Thermosensor MAC6675 connected to Arduion, ESP8266
+* rMAX6675 - Thermosensor MAX6675 connected to Arduino or ESP8266
 * [rMiLYWSD03MMC](https://www.b4x.com/android/forum/threads/rmilywsd03mmc-xiaomi-mi-temperature-humidity-monitor-2.131806/) - Read temperature, humidity and battery values broadcasted via Bluetooth 4.2 BLE by the Xiaomi Mi Temperature and Humidity Monitor 2
 * [rMPU6050_I2C](https://www.b4x.com/android/forum/threads/rmpu6050_i2c-motiontracking.76143/)
 * [rMultiFuncShield](https://www.b4x.com/android/forum/threads/rmultifuncshield-arduino-multi-function-shield.76003/)
-* [rPowerFunctions](https://www.b4x.com/android/forum/threads/lego-power-functions-ir-control.68464/)
+* [rPowerFunctions](https://www.b4x.com/android/forum/threads/lego-power-functions-ir-control.68464/) - Control LEGO powerfunctions via IR transmitter
 * [rRFXMeter](https://www.b4x.com/android/forum/threads/rrfxmeter.139786/#post-885187) (b4xlib) - send sensor & actuator data from an [Arduino](https://www.arduino.cc/) Microcontroller to [Domoticz Home Automation System](https://domoticz.com/) by using a [RFXCOM RFXtrx433e](http://www.rfxcom.com/RFXtrx433E-USB-43392MHz-Transceiver/en) transceiver.
 * [rTM1637Ex](https://www.b4x.com/android/forum/threads/rtm1637ex.127739/) - Write to TM1637 seven-segment-displays
 * rTrafficLight - Controlling 3 LEDs Red-Yellow-Green for learning Arduino Functions but also how to create a B4R library
