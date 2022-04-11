@@ -22,7 +22,7 @@ The libraries are
 * [rMPU6050_I2C](https://www.b4x.com/android/forum/threads/rmpu6050_i2c-motiontracking.76143/)
 * [rMultiFuncShield](https://www.b4x.com/android/forum/threads/rmultifuncshield-arduino-multi-function-shield.76003/)
 * [rPowerFunctions](https://www.b4x.com/android/forum/threads/lego-power-functions-ir-control.68464/)
-* [rRFXMeter](https://www.b4x.com/android/forum/threads/rrfxmeter.139786/#post-885187) (b4xlib)
+* [rRFXMeter](https://www.b4x.com/android/forum/threads/rrfxmeter.139786/#post-885187) (b4xlib) - send sensor & actuator data from an [Arduino](https://www.arduino.cc/) Microcontroller to [Domoticz Home Automation System](https://domoticz.com/) by using a [RFXCOM RFXtrx433e](http://www.rfxcom.com/RFXtrx433E-USB-43392MHz-Transceiver/en) transceiver.
 * [rTM1637Ex](https://www.b4x.com/android/forum/threads/rtm1637ex.127739/) - Write to TM1637 seven-segment-displays
 * rTrafficLight - Controlling 3 LEDs Red-Yellow-Green for learning Arduino Functions but also how to create a B4R library
 
