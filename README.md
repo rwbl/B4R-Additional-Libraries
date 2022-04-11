@@ -52,7 +52,7 @@ From the zip archive, copy the b4xlib file and the xml file to the B4R additiona
 _Note:_ rGPRMC.xml is optional.
 
 ## Credits
-* To the developers of the various Open Source libraries used (wrapped for B4R).
+* To the developers of the various Open Source libraries used / wrapped for the B4R libraries/programs.
 * To [Anywhere Software](http://www.b4x.com) for the B4X products.
 
 ## Licence
